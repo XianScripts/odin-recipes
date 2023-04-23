@@ -1,0 +1,18 @@
+#oatmeal {
+    color: aqua;
+}
+
+.ingredients {
+    font-weight: 400;
+    color: burlywood;
+}
+
+.img {
+    width: 200px;
+}
+
+.steps {
+    font-weight: bolder;
+    color: pink;
+}
+
