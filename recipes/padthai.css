@@ -1,0 +1,32 @@
+.header {
+    background-color: bisque;
+    color: blueviolet;
+    font-size: 60px;
+}
+.img {
+    width: 300px;
+}
+
+.recipe {
+    font-weight: 600;
+    color: goldenrod;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+.intro {
+    color: goldenrod;
+}
+
+#ingredients {
+    color: red;
+    font-weight: 700;
+    
+}
+
+.steps {
+    color:green;
+    background-color: azure;
+    background-size: contain;
+
+}
